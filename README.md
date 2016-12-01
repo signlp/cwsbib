@@ -5,3 +5,4 @@
 
 **[2]** Ng, Hwee Tou and Low, Jin Kiat. "**Chinese Part-of-Speech Tagging: One-at-a-Time or All-at-Once? Word-Based or Character-Based?**." Proceedings of EMNLP (2004). [[pdf]](http://www-new.comp.nus.edu.sg/~nght/pubs/emnlp04.pdf) **(分词、词性标注结合)**
 
+**[3]** Zhang, Yue and Clark, Stephen. "**Chinese Segmentation with a Word-Based Perceptron Algorithm**." ACL (2007). [[pdf]](http://www.aclweb.org/anthology/P/P07/P07-1.pdf#page=878) **(基于词的特征)**
